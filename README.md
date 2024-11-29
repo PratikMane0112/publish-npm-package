@@ -2,7 +2,7 @@
 
 ![npm-package](https://github.com/user-attachments/assets/0b84d8b8-df22-40b5-a019-53bdd0da6715)
 
-Publishing your first npm package can be an exciting and rewarding experience. This guide will walk you through the process step-by-step.
+Publishing your first npm package can be an exciting and rewarding experience. This guide will walk you through the process step by step.
 
 ## Step 1: Set Up Your Development Environment
 
